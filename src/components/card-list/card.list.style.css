@@ -5,3 +5,11 @@
     width: 85vw;
     margin: 0 auto;
 }
+@media (max-width:35em){
+    .card-list{
+        /* display: grid; */
+        grid-template-columns: 1fr;
+        
+
+    }
+}
